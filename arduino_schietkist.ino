@@ -1,5 +1,6 @@
 /*
-** Get the LCD I2C Library here: http://www.4tronix.co.uk/arduino/sketches/LiquidCrystal_V1.2.1.zip
+** Get the LCD I2C Library here: https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads/LiquidCrystal_V1.2.1.zip
+** Mirror: http://www.4tronix.co.uk/arduino/sketches/LiquidCrystal_V1.2.1.zip
 */
 
 #include <RCSwitch.h>
